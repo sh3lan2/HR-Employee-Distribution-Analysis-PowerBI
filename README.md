@@ -2,7 +2,7 @@
 
 An end-to-end HR Analytics report built in Power BI to monitor workforce distribution, salary allocation, recruitment channels, and employee satisfaction.
 
-![Employee Dashboard](<img width="1288" height="727" alt="Screenshot 2026-11-01 145820" src="https://github.com/user-attachments/assets/c3e8ea5d-c895-4008-84e0-c258ff542294" />
+![Employee Dashboard](<img src="https://github.com/user-attachments/assets/c3e8ea5d-c895-4008-84e0-c258ff542294" alt="Employee Dashboard" width="100%" />
 )
 
 ## 📌 Executive Summary
