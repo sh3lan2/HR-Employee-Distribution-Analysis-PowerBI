@@ -2,7 +2,7 @@
 
 An end-to-end HR Analytics report built in Power BI to monitor workforce distribution, salary allocation, recruitment channels, and employee satisfaction.
 
-![Employee Dashboard](Screenshot 2026-11-01 145820.png)
+![Employee Dashboard](.Screenshot 2026-11-01 145820.png)
 
 ## 📌 Executive Summary
 * **Total Employees:** 311
